@@ -1,0 +1,1 @@
+Belajar data science melibatkan analisis data, pemrograman dengan Python, dan penerapan machine learning. Python adalah bahasa pemrograman yang populer untuk melakukan analisis data dan membangun model machine learning.

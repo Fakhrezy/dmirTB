@@ -1,0 +1,1 @@
+Belajar Python sangat menyenangkan. Dalam belajar Python, kita akan menemukan banyak konsep menarik seperti variabel, tipe data, dan struktur kontrol. Python juga memiliki banyak pustaka yang berguna untuk pemrograman web dan data science.
